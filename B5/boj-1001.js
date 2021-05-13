@@ -6,4 +6,4 @@ const [A, B] = fs.readFileSync('/dev/stdin').toString().split(' ');
 // console.log(Number(A) - Number(B))
 
 /* parseInt() */
-console.log(parseInt(A) - parseInt(B))  
+console.log(parseInt(A) - parseInt(B))
